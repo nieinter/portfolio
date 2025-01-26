@@ -4,9 +4,10 @@
 ![Quiz](https://github.com/nieinter/images/blob/main/quiz1solar.png)
 
 ### [Student record 🔗](https://github.com/nieinter/student-record)
-![Quiz](https://github.com/nieinter/images/blob/main/record_main1.png)
+![StudentRecord](https://github.com/nieinter/images/blob/main/record_main1.png)
 
 ### [Tax interest calculator🔗](https://github.com/nieinter/tax-interest-calculator)
+![TIC](https://github.com/nieinter/images/blob/main/TIC_main.png)
 
 ### [Pricing 🔗](https://github.com/nieinter/pricing)
 
