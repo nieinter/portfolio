@@ -10,5 +10,6 @@
 ![TIC](https://github.com/nieinter/images/blob/main/TIC_main.png)
 
 ### [Pricing 🔗](https://github.com/nieinter/pricing)
+![Pricing](https://github.com/nieinter/images/blob/main/pricing_main.png)
 
 ### [Wordle 🔗](https://github.com/nieinter/wordle)
