@@ -13,4 +13,4 @@
 ![Pricing](https://github.com/nieinter/images/blob/main/pricing_main.png)
 
 ### [Wordle 🔗](https://github.com/nieinter/wordle)
-![Wordle](https://github.com/nieinter/images/blob/wordle_main.png)
+![Wordle](https://github.com/nieinter/images/blob/main/wordle_main.png)
